@@ -1,0 +1,59 @@
+body {
+    transition: background-color 1s, color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    transition: background-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+h1 {
+    transition: color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+main {
+    transition: background-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+section {
+    transition: background-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+h2 {
+    transition: color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+p {
+    transition: color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#canvas-container {
+    transition: background-color 1s, border-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#randomize-button {
+    transition: background-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+footer {
+    transition: background-color 1s;
+    max-width: 100%;
+    overflow-x: hidden;
+}
